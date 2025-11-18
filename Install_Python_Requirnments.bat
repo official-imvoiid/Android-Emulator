@@ -1,7 +1,6 @@
 @echo off
 
 :: Script to check Python installation, upgrade pip, and install dependencies from requirements.txt
-
 echo Checking Python installation...
 python --version >nul 2>&1
 if %errorlevel% equ 0 (
