@@ -160,7 +160,7 @@ if %errorLevel% equ 0 (
 
 echo.
 echo ********************************************************************                                                                *
-echo *                      Setup Complete!                             *                                                                 *
+echo *                      Setup Complete!!                            *                                                                 *
 echo ********************************************************************
 echo *   Please restart your computer for changes to take effect.       *
 echo ********************************************************************
